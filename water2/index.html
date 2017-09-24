@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="css/main.css"></link>
+</head>
+
+<body>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+	<script src="jquery.ripples-0.5.3/jquery.ripples.js"></script>
+	<script>
+	window.wallpaperPropertyListener={
+            applyUserProperties: function(properties){
+				if(properties.dropRadius){
+					$('body').ripples('set', 'dropRadius', properties.dropRadius.value*10);
+				};
+				
+				if(properties.perturbance){
+					$('body').ripples('set', 'perturbance', properties.perturbance.value/100);
+				};
+			}
+		}
+	</script>
+	<script>
+	$(document).ready(function() {
+		try {
+			$('body').ripples({
+				resolution: 712,
+				dropRadius: 30, //px
+				perturbance: 0.04,
+			});
+		}
+		catch (e) {
+			$('.error').show().text(e);
+		}
+	});
+</script>
+</body>
+</html>

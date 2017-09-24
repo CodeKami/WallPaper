@@ -1,0 +1,22 @@
+{
+	"description" : "",
+	"file" : "index.html",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0.9215686274509803 0.49411764705882355 0.9490196078431372"
+			}
+		}
+	},
+	"preview" : "preview.jpg",
+	"tags" : [ "Anime" ],
+	"title" : "2b nier automata sexy",
+	"type" : "web",
+	"visibility" : "public"
+}

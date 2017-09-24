@@ -1,0 +1,24 @@
+{
+	"description" : "Rem art by HUYKHO192\r\n\r\np/s : 圖片版權跟內容皆屬原作者 若有侵權請通知撤下",
+	"file" : "index.html",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "1 1 1"
+			}
+		}
+	},
+	"monetization" : false,
+	"preview" : "preview.jpg",
+	"tags" : [ "Anime" ],
+	"title" : "Rem雷姆 Re:Zero 2",
+	"type" : "web",
+	"visibility" : "public",
+	"workshopid" : 880431584
+}

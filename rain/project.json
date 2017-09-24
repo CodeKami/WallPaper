@@ -1,0 +1,50 @@
+{
+	"file" : "index.html",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0 0 0"
+			},
+			"weather" : 
+			{
+				"options" : 
+				[
+					{
+						"label" : "Sunny",
+						"value" : "slide-3"
+					},
+					{
+						"label" : "Drizzle",
+						"value" : "slide-2"
+					},
+					{
+						"label" : "Rain",
+						"value" : "slide-1"
+					},
+					{
+						"label" : "Storm",
+						"value" : "slide-5"
+					},
+					{
+						"label" : "Fallout",
+						"value" : "slide-4"
+					}
+				],
+				"text" : "Weather",
+				"type" : "combo",
+				"value" : "Drizzle"
+			}
+		}
+	},
+	"preview" : "preview.jpg",
+	"tags" : [ "Relaxing" ],
+	"title" : "Raindrops at Night",
+	"type" : "web",
+	"visibility" : "private"
+}

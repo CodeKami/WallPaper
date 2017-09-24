@@ -1,0 +1,22 @@
+{
+	"description" : "Depending on the resolution of the display, the position of the clock may change. Look for the corresponding folder from C:\\Program Files (x86)\\Steam\\steamapps\\workshop\\content.\nOpen index.html with something like Notepad ++. <Div style = \"position: absolute; left: 440px; top: 340px;\" class = \"time\" id = \"time\" data - hours = \"\" Change the resolution of the data - minutes = \"\">.\n\nSupplement: Please comment if you can not understand. I'm sorry if I made a mistranslation",
+	"file" : "index.html",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0 0 0"
+			}
+		}
+	},
+	"preview" : "preview.jpg",
+	"tags" : [ "Game" ],
+	"title" : "nier automata",
+	"type" : "web",
+	"visibility" : "public"
+}

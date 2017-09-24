@@ -1,0 +1,12 @@
+{
+	"passes": [{
+		"shader": "particle",
+		"depthwrite": "disabled",
+		"blending": "additive",
+		"textures": ["particle/dustmote"],
+		"usershadervalues": {
+			"schemecolor": "color1",
+			"color2": "color2"
+		}
+	}]
+}

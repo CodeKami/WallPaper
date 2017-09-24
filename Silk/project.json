@@ -1,0 +1,23 @@
+{
+	"description" : "源网站： weavesilk.com  \nitunes下载： https://itunes.apple.com/us/app/silk-2-interactive-generative/id1050339928?mt=8&ign-mpt=uo%3D4\n\n丝线 - 互动生成艺术  沉迷画画  无法自拔 \n\n右键— 查看— 显示桌面 — \t\t[strike][u]隐藏图标[/u][/strike]\n\n右上的功能\nMirror across center    —镜像横跨中心\nSpiral towards center  —  向中心螺旋\n\n\n画完后—右下角—选择Wallpaper Engine图标— 右键—暂停\n\n可以选择Wallpaper Engine 截图上传到社区的[url=http://steamcommunity.com/app/431960/screenshots/?p=1&browsefilter=mostrecent]截图栏[/url]里 \n\nps:希望大家在工坊看到不和谐内容的时候，右边点亮小旗子\n\n[h1]感谢 FREE TO PAY 的分享\n找到SteamApps\\workshop\\content\\431960\\823274093文件下的site.css，搜索#main-controls，将样式left改成right就可以把工具条放到右边或者任何位置了[/h1]",
+	"file" : "index.html",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0 0 0"
+			}
+		}
+	},
+	"preview" : "preview.jpg",
+	"tags" : [ "Fantasy" ],
+	"title" : "Silk – Interactive Generative Art",
+	"type" : "web",
+	"visibility" : "public",
+	"workshopid" : 823274093
+}

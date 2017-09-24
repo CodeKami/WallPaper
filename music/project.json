@@ -1,0 +1,146 @@
+{
+	"description" : "4K Resolution Wallpaper 3840x2160\r\n------------------------------------------------------------------------------------------------------------------------------\r\nThis features:\r\n-Tuningable clock and audio vizualiser\r\n-2 types of audio vizualiser\r\n-You ca",
+	"file" : "index.html",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"blurColor" : 
+			{
+				"order" : 6,
+				"text" : "<br /><br />Blur color<br />",
+				"type" : "color",
+				"value" : "0.1 0.3 0.6"
+			},
+			"cX" : 
+			{
+				"max" : 100,
+				"min" : 0,
+				"order" : 7,
+				"text" : "<br />-X(%)<br />Center of circle-X(%)<br />",
+				"type" : "slider",
+				"value" : 50
+			},
+			"cY" : 
+			{
+				"max" : 100,
+				"min" : 0,
+				"order" : 8,
+				"text" : "<br />-Y(%)<br />Center of circle-Y(%)<br />",
+				"type" : "slider",
+				"value" : 50
+			},
+			"color" : 
+			{
+				"order" : 5,
+				"text" : "<br /><br />Color<br />",
+				"type" : "color",
+				"value" : "1 1 1"
+			},
+			"image" : 
+			{
+				"order" : 1,
+				"text" : "<br /><br />Background img<br />",
+				"type" : "file"
+			},
+			"isRotate" : 
+			{
+				"order" : 14,
+				"text" : "<br /><br />Is rotate?<br />",
+				"type" : "bool",
+				"value" : false
+			},
+			"radius" : 
+			{
+				"max" : 80,
+				"min" : 40,
+				"order" : 3,
+				"text" : "<br />(%)<br />radius(%)<br />",
+				"type" : "slider",
+				"value" : 50
+			},
+			"range" : 
+			{
+				"max" : 15,
+				"min" : 1,
+				"order" : 4,
+				"text" : "<br /><br />range<br />",
+				"type" : "slider",
+				"value" : 7
+			},
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0 0 0"
+			},
+			"showTime" : 
+			{
+				"order" : 9,
+				"text" : "<br /><br />Show time?<br />",
+				"type" : "bool",
+				"value" : true
+			},
+			"style" : 
+			{
+				"options" : 
+				[
+					{
+						"label" : "1",
+						"value" : 1
+					},
+					{
+						"label" : "2",
+						"value" : 2
+					}
+				],
+				"order" : 2,
+				"text" : "<br /><br />Style<br />",
+				"type" : "combo",
+				"value" : 2
+			},
+			"tSize" : 
+			{
+				"max" : 50,
+				"min" : 10,
+				"order" : 11,
+				"text" : "<br /><br />Time size<br />",
+				"type" : "slider",
+				"value" : 20
+			},
+			"tStyle" : 
+			{
+				"order" : 10,
+				"text" : "<br />24<br />24-hour?<br />",
+				"type" : "bool",
+				"value" : true
+			},
+			"tX" : 
+			{
+				"max" : 100,
+				"min" : 0,
+				"order" : 12,
+				"text" : "<br />-X(%)<br />Time-X(%)<br />",
+				"type" : "slider",
+				"value" : 50
+			},
+			"tY" : 
+			{
+				"max" : 100,
+				"min" : 0,
+				"order" : 13,
+				"text" : "<br />-Y(%)<br />Time-Y(%)<br />",
+				"type" : "slider",
+				"value" : 50
+			}
+		},
+		"supportsaudioprocessing" : true
+	},
+	"preview" : "preview.jpg",
+	"tags" : [ "Relaxing" ],
+	"title" : "4K Night With Audio Vizualiser Old Version",
+	"type" : "web",
+	"visibility" : "public",
+	"workshopid" : 861190385
+}
